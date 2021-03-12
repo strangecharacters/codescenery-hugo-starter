@@ -15,7 +15,10 @@ Narative is a studio based in 3 different cities around the world; so right off 
 
 ![](/images/hero-2.jpg)
 
+
 We came across Figma a few weeks before engaging in our first project. It’s worth noting that, I’ve been using Sketch for several years before Narative, and getting out of your comfort zone can be scary.
+
+![](https://source.unsplash.com/featured/?architexture,cat)
 
 Just thinking about re-learning a new tool, transferring past designs, plugins and projects I’ve been working on for years, started to give me anxiety.
 Luckily, the transition was more than natural. Working on Figma was second-nature and, two weeks in, it became my daily driver. In three weeks, I became a fan, and today I am probably an advocate. Here are eight reasons why.
@@ -27,12 +30,14 @@ Not much to say here. You literally just have to copy your art-boards — or
 ## Zero file management
 
 What does that mean? Sketch, Framer, Adobe XD or even Photoshop are native apps where you inherently need to save your work. Some tools have auto-save, of course, but you still end up with hundreds of megabytes and even gigabytes on your drive. And yes, if you lose your disk, break your computer somehow, or have your dog eat your SSD, you will lose your files completely.
+![](https://source.unsplash.com/featured/?architexture,cat)
 
 Not with Figma. Not having to command+s is a big deal. Figma is a web-based software, meaning you never need to upload, download, or worry about versions again. Imagine a Google Docs for design, keeping all my projects organized in one app, in the cloud. One single source of truth for design files.
 
 I probably saved more than 30GB of disk space by migrating my projects to Figma, and now I can access them from anywhere.
 
 ## Figma is platform-agnostic
+![](https://source.unsplash.com/featured/?architexture,cat)
 
 One of the best features of a web-based software is the fact you’re no longer stuck with an operating system. You can run it right from the browser or from their native app, that’s essentially a wrapper. I’m able to seamlessly start a project on my iMac Pro at my home office, and continue on my Surface Book 2 on the go. That’s huge.
 
@@ -249,3 +254,5 @@ Gatsby is built with React at its core and shares a common API pattern, the life
 Without the Gatsby lifecycle, it would be impossible to customize and modify your project beyond the base configuration, leaving developers with a rigid and poor developer experience. This power and flexibility has helped us build amazing web projects for clients like Hopper!
 
 Gatsby is a staple within our engineering process at Narative, helping us help our clients build the products they’ve always dreamed of, and the ones they’re yet to dream up.
+
+{{< email >}}
